@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkDriveMapperSharp", "NetworkDriveMapperSharp\NetworkDriveMapperSharp.csproj", "{EE1BE947-E172-4246-9D43-D7BA83400656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1BE947-E172-4246-9D43-D7BA83400656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1BE947-E172-4246-9D43-D7BA83400656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1BE947-E172-4246-9D43-D7BA83400656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1BE947-E172-4246-9D43-D7BA83400656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
